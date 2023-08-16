@@ -1,0 +1,16 @@
+.products {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* gap: 10px */
+}
+
+.products li {
+    width: 25%;
+    border: 1px solid #EFEFEF;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    margin: 5px 10px;
+    list-style: none; //TIRA A BOLINHA DA LISTA
+}

@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Camisa masculina",
+            "price": 59.9
+          },
+          {
+            "id": 2,
+            "name": "Camisa feminina",
+            "price": 49.9
+          },
+          {
+            "id": 3,
+            "name": "Calça jeans",
+            "price": 99.9
+          },
+          {
+            "id": 4,
+            "name": "Calça social",
+            "price": 129.9
+          },
+          {
+            "id": 5,
+            "name": "Jaqueta de couro",
+            "price": 299.9
+          },
+          {
+            "id": 6,
+            "name": "Blusa de moletom",
+            "price": 79.9
+          },
+          {
+            "id": 7,
+            "name": "Bermuda masculina",
+            "price": 49.9
+          },
+          {
+            "id": 8,
+            "name": "Bermuda feminina",
+            "price": 39.9
+          },
+          {
+            "id": 9,
+            "name": "Vestido longo",
+            "price": 149.9
+          },
+          {
+            "id": 10,
+            "name": "Vestido curto",
+            "price": 99.9
+          }
+    ]
+}
